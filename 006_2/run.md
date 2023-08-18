@@ -679,7 +679,7 @@ We knew this battle would be costly. We knew it would go against us, and we knew
 
 Although the battles are computed beforehand, the retreat animation begins halfway through the battle. By the time that happens, we've already taken immense losses.
 
-![s189](s188.jpg)
+![s189](s189.jpg)
 
 ![s190](s190.jpg)
 
