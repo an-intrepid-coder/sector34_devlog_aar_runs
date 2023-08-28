@@ -64,11 +64,11 @@ The Republic of Acrux in on the back foot, with their main forces now nearly sur
 
 [![s17t](s17t.jpg)](s17.jpg)
 
-**Preparations**: Some scouting reveals that the center is densely packed with various factions who have clumped there, while the right side of the map is dominated by the Alrakis Secunudus Confederation. We have 10-15% of the map left to take before the Coalition/Resistance stage triggers, and it would be wise to prepare ourselves for that now. The center will be very dangerous for us then because all of those fleets will suddenly be under the control of a single faction (and will give us a hard time, potentially even breaking through as things stand right now). The wise move here is to build some depth in the center, and abort the plan to break through there right away, while continuing to inch behind it through the Republic of Acrux in the top-left. This is a situation in which stage 2 would surprise the unprepared player, when those fleets in the center spring in to action.
+**Preparations**: Some scouting reveals that the center is densely packed with various factions who have clumped there, while the right side of the map is dominated by the Alrakis Secundus Confederation. We have 10-15% of the map left to take before the Coalition/Resistance stage triggers, and it would be wise to prepare ourselves for that now. The center will be very dangerous for us then because all of those fleets will suddenly be under the control of a single faction (and will give us a hard time, potentially even breaking through as things stand right now). The wise move here is to build some depth in the center, and abort the plan to break through there right away, while continuing to inch behind it through the Republic of Acrux in the top-left. This is a situation in which stage 2 would surprise the unprepared player, when those fleets in the center spring in to action.
 
 [![s18t](s18t.jpg)](s18.jpg)
 
-The Alrakis Secundus Confederation pushes us back a little on the right, while we land the finishing blows against the Republic of Acrus in the top-left!
+The Alrakis Secundus Confederation pushes us back a little on the right, while we land the finishing blows against the Republic of Acrux in the top-left!
 
 [![s19t](s19t.jpg)](s19.jpg)
 
@@ -84,7 +84,7 @@ On the cusp of the Coalition/Resistance stage, here is the shape of things as we
 
 [![s23t](s23t.jpg)](s23.jpg)
 
-The next stage could trigger at any moment. To make the coming fight more in our favor, we're going to crush the center while it's still disunited -- now is the time! The Alrakis Secundus Federation's forces will form the bulk of the Coalition/Resistance, once formed.
+The next stage could trigger at any moment. To make the coming fight more in our favor, we're going to crush the center while it's still disunited -- now is the time! The Alrakis Secundus Confederation's forces will form the bulk of the Coalition/Resistance, once formed.
 
 [![s24t](s24t.jpg)](s24.jpg)
 
@@ -178,13 +178,13 @@ As we continue to absorb the blow, the time is looking right for some cautious c
 
 [![s50t](s50t.jpg)](s50.jpg)
 
-There is a large 1500+ ship invader fleet which seems to be headed for our lines in the top of the map! Meanwhile, we've got enough fleets towards the bottom of the map to begin a counter-attack there. I think the line has firmed up enough to begin counter-attacking (especially as we now have a sizeable presence behind the invader lines). But that big fleet may cause us to trade a little space for time wherevever it lands!
+There is a large 1500+ ship invader fleet which seems to be headed for our lines in the top of the map! Meanwhile, we've got enough fleets towards the bottom of the map to begin a counter-attack there. I think the line has firmed up enough to begin counter-attacking (especially as we now have a sizeable presence behind the invader lines). But that big fleet may cause us to trade a little space for time wherever it lands!
 
 [![s51t](s51t.jpg)](s51.jpg)
 
 (Dev Note: I will likely include some level-specific procedural news blurbs and "living world" stuff in the next update, now that I have fine-tuned the phases of the first three levels.)
 
-The battles going on behind the lines are small but fierce. The idea is to slowly dripfeed forces back there to draw larger and larger fleets away from the invader lines. This is essential to stopping their heavy concentrations of ships! It was a little harder to get that ball rolling when they invade left/right as opposed to top/bottom, but still worked pretty well. This has been a pretty epic run, and I am especially pleased with the way the "behind the lines" play works out in the invader stage (it is not always required to beat it, but good play should certainly include it). This (imo) is part of why the invader stage is the best in the game so far (you have to play big ball and small ball). I intend to keep this kind of dynamism going in the 4th stage and beyond. 0.1.0 (this upcoming update) will include at the very least the 4th and 5th stages, which will be of a similar scope to the Invader stage. The "campaign" will probably include a few dozen stages eventually, and 0.1.0 will also include a nascent version of "skirmish mode" which allows the player to pick and choose elements of all the stages for a custom romp.
+The battles going on behind the lines are small but fierce. The idea is to slowly dripfeed forces back there to draw larger and larger fleets away from the invader lines. This is essential to stopping their heavy concentrations of ships! It was a little harder to get that ball rolling when they invade left/right as opposed to top/bottom, but still worked pretty well. This has been a pretty epic run, and I am especially pleased with the way the "behind the lines" play works out in the invader stage (it is not always required to beat it, but good play should certainly include it). This (imo) is part of why the invader stage is the best in the game so far (you have to play big ball and small ball). I intend to keep this kind of dynamism going in the 4th stage and beyond. 0.1.0 (this upcoming update) will include at the very least the 4th and 5th stages, which will be of a similar scope to the Invader stage. The "campaign" will probably include a few dozen stages eventually, and 0.1.0 will also include a nascent version of "skirmish mode" which allows the player to pick and choose elements of all the stages for a custom romp. Early days!
 
 Although we continue to take attrition holding the line, and the counter-attacks will be costly, we've already "marked the x" for this wave and we can afford to bleed them a little to set up decisive momentum-shifts.
 
@@ -206,19 +206,19 @@ The invaders' AI will eventually clamp down on behind-the-lines play, meaning yo
 
 [![s57t](s57t.jpg)](s57.jpg)
 
-This might be winnable in the first wave! Perhaps it was partially because of the orientation of the attack this time around, but the counter attacks were extremely "sharp" and the tide turned very quickly once that epic back and forth in the bottom part of the line went down. 
+This might be winnable in the first wave! Perhaps it was partially because of the orientation of the attack this time around, but the counter-attacks were extremely "sharp" and the tide turned very quickly once that epic back and forth in the bottom part of the line went down. 
 
 [![s58t](s58t.jpg)](s58.jpg)
 
 [![s59t](s59t.jpg)](s59.jpg)
 
-**Oh, How the Turn Tables**: With just over a hundred turns until the earliest point at which the 2nd wave could hit, now seems like the time to counter attack across the line. With the bottom part of the invader line broken, we now seek to repeat the complex mixture of fixing attacks, sharpening attacks, and main attacks, to break their line and push through!
+**Oh, How the Turn Tables**: With just over a hundred turns until the earliest point at which the 2nd wave could hit, now seems like the time to counter-attack across the line. With the bottom part of the invader line broken, we now seek to repeat the complex mixture of fixing attacks, sharpening attacks, and main attacks, to break their line and push through!
 
 [![s60t](s60t.jpg)](s60.jpg)
 
 [![s61t](s61t.jpg)](s61.jpg)
 
-**Mopping Up**: A couple of big battles remain, but our combined attacks and timing overhwhelmed the invaders! And with quite a lot of time before the next wave. 
+**Mopping Up**: A couple of big battles remain, but our combined attacks and timing overwhelmed the invaders! And with quite a lot of time before the next wave. 
 
 [![s62t](s62t.jpg)](s62.jpg)
 
@@ -246,9 +246,8 @@ The climactic 5th Battle of Xihe is appropriately epic, with both sides forming 
 
 **On 0.1.0**: 0.1.0 is going to be a huge update. I am very happy with 0.0.6, and so I am going to take my time with 0.1.0 and implement a lot of the "little things" on my list which are vital for making the next level as awesome as I want it to be. It could be a few weeks or even a few months, but I think 0.0.6 will keep until then. It's had a few downloads on itch.io, and I hope those who have tried it enjoy it as much as I do. It is in the early stages, but it is a pretty pure distillation of my favorite moments in strategy gaming (in addition to a fine excuse to do some procedural programming). Thanks for reading and/or playing! 
 
-*Dev Note*: Oh, I will likely implement a "map replay" feature (ala Civ) for this update as well. One thing I love doing with these AARs is looking at the change of the map over the screenshots, and some civ games allow the player to "replay" the run like a little time lapse afterwards. That would be pretty straightforward to implement actually. I will try and make a little YouTube video of that feature once I've implemented it, although my awesome little old laptop's ability to do screen capture is a little shaky.
+*Dev Note*: Oh, I will likely implement a "map replay" feature (ala Civ) for this update as well. One thing I love doing with these AARs is looking at the change of the map over the screenshots, and some civ games allow the player to "replay" the run like a little time-lapse afterwards. That would be pretty straightforward to implement, actually. I will try and make a little YouTube video of that feature once I've implemented it, although my awesome little old laptop's ability to do screen capture is a little shaky.
 
-**Stages 4 and 5**: The next AAR previews will include stages 4 and 5. For stage 4, the player will be "counter striking" towards the invader sector. It'll be a new map, and the player will have small fleets of +2 XP ships with which to take out "generator systems" that pump out decent sized fleets on a regular interval. The whole stage will be asymmetric, as the player will have to avoid the roving AI fleets while preserving their forces for the necessary attacks on generator systems; while also preserving "lanes" to the home edge of the map so that infrequent reenforcements can make it through. Stage 5 will take place on the same map as stage 4, and involve a more general symmetric battle with some wrinkles that haven't been seen yet in earlier stages. Stages 1/2 are basically tutorials, and stages 3/4/5 are more how the rest of the campaign will be in terms of scope, scale, and complexity. Stage 5 will end the "invader arc", but there are quite a few more stages planned beyond that, which I won't spoil just yet.
+**Stages 4 and 5**: The next AAR previews will include stages 4 and 5. For stage 4, the player will be "counter striking" towards the invader sector. It'll be a new map, and the player will have small fleets of +2 XP ships with which to take out "generator systems" that pump out decent sized fleets on a regular interval. The whole stage will be asymmetric, as the player will have to avoid the roving AI fleets while preserving their forces for the necessary attacks on generator systems while also preserving "lanes" to the home edge of the map so that infrequent reenforcements can make it through. Stage 5 will take place on the same map as stage 4, and involve a more general symmetric battle with some wrinkles that haven't been seen yet in earlier stages. Stages 1/2 are basically tutorials, and stages 3/4/5 are more how the rest of the campaign will be in terms of scope, scale, and complexity. Stage 5 will end the "invader arc", but there are quite a few more stages planned beyond that, which I won't spoil just yet.
 
 **Skirmish Mode**: 0.1.0 will include a "skirmish mode" which allows the player to set up a one-off level and customize which features of the various levels so far are included (and to fine-tune them to their taste and preference). When I have included some more chess-engine-like features for the AI, these one-off Skirmish Mode games will be the real meat of the game for people who have beaten the campaign, and (hopefully) a place to play some multiplayer at some point! While I'm proud of the AI thus far, it would be very exciting to play this game against some other people.
-
